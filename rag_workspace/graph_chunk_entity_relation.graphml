@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;FILM&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Œuvre cinématographique racontant une histoire avec des personnages et des événements"</data>
+      <data key="d2">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </node>
+    <node id="&quot;JEUNE HOMME&quot;">
+      <data key="d0">"ACTEUR"</data>
+      <data key="d1">"Ingénieur déçu, se sent insatisfait de son emploi au zoo"</data>
+      <data key="d2">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </node>
+    <node id="&quot;VIEUX HOMME&quot;">
+      <data key="d0">"ACTEUR"</data>
+      <data key="d1">"Fonctionnaire, père de famille, désireux de se montrer comme un bon citoyen"</data>
+      <data key="d2">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </node>
+    <node id="&quot;ZOO&quot;">
+      <data key="d0">"CONTEXTE"</data>
+      <data key="d1">"Lieu de travail du jeune homme, symbolisant son désenchantement professionnel"</data>
+      <data key="d2">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </node>
+    <node id="&quot;MUSIQUE ET DANSE&quot;">
+      <data key="d0">"EXEMPLE"</data>
+      <data key="d1">"Activités de la soirée organisée par le jeune chez lui, créant un désaccord avec le vieux"</data>
+      <data key="d2">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </node>
+    <node id="&quot;INSTABILITÉ&quot;">
+      <data key="d0">"DEFI"</data>
+      <data key="d1">"Situation politique difficile dans le pays, influençant les comportements des personnages"</data>
+      <data key="d2">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </node>
+    <node id="&quot;RENCONTRE DANS LE BUS&quot;">
+      <data key="d0">"PROCESSUS"</data>
+      <data key="d1">"Événement où les deux hommes croisement leurs chemins et cherchent à rembourser les billets"</data>
+      <data key="d2">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </node>
+    <node id="&quot;ADMINISTRATION PUBLIQUE&quot;">
+      <data key="d0">"CONTEXTE"</data>
+      <data key="d1">"Lieu de travail du vieux homme, illustrant son statut de fonctionnaire"</data>
+      <data key="d2">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </node>
+    <node id="&quot;DEUX ENFANTS&quot;">
+      <data key="d0">"ACTEUR"</data>
+      <data key="d1">"Enfants du vieux homme, représentant sa vie de famille"</data>
+      <data key="d2">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </node>
+    <node id="&quot;SOIRÉE&quot;">
+      <data key="d0">"PROCESSUS"</data>
+      <data key="d1">"Événement social organisé par le jeune homme pour se divertir avec ses amis"</data>
+      <data key="d2">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </node>
+    <node id="&quot;BRUIT&quot;">
+      <data key="d0">"IMPACT"</data>
+      <data key="d1">"Conséquence de la soirée qui perturbe le vieux homme"</data>
+      <data key="d2">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </node>
+    <node id="&quot;SERVICES SECRETS DE L’ETAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Institution qui suscite le respect et la peur, influençant la perception du vieux homme"</data>
+      <data key="d2">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </node>
+    <node id="&quot;POLICE&quot;">
+      <data key="d0">"OUTIL"</data>
+      <data key="d1">"Autorité à laquelle le bus les amène après leur incident"</data>
+      <data key="d2">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </node>
+    <edge source="&quot;JEUNE HOMME&quot;" target="&quot;VIEUX HOMME&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Le jeune homme ne respecte pas le vieux homme lors de la soirée, ce qui entraîne un conflit."|&gt;"désaccord, tensions, génération"</data>
+      <data key="d5">7</data>
+      <data key="d6">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </edge>
+    <edge source="&quot;JEUNE HOMME&quot;" target="&quot;ZOO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Le fait de travailler au zoo est source de déception pour le jeune homme qui aspire à plus."|&gt;"désillusion, emploi, aspirations"</data>
+      <data key="d5">7</data>
+      <data key="d6">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </edge>
+    <edge source="&quot;JEUNE HOMME&quot;" target="&quot;SOIRÉE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"La soirée organisée par le jeune homme crée des tensions avec le vieux homme."|&gt;"conflit, interaction sociale, perturbation"</data>
+      <data key="d5">7</data>
+      <data key="d6">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </edge>
+    <edge source="&quot;JEUNE HOMME&quot;" target="&quot;POLICE&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"L'interaction entre le jeune homme et la police provient d'une situation malheureuse dans le bus."|&gt;"confrontation, autorité, désagrément"</data>
+      <data key="d5">6</data>
+      <data key="d6">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </edge>
+    <edge source="&quot;VIEUX HOMME&quot;" target="&quot;INSTABILITÉ&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"L'instabilité du pays influence le comportement du vieux homme, le poussant à vouloir prouver sa loyauté."|&gt;"pression, loyauté, patriotisme"</data>
+      <data key="d5">8</data>
+      <data key="d6">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </edge>
+    <edge source="&quot;VIEUX HOMME&quot;" target="&quot;RENCONTRE DANS LE BUS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"La rencontre dans le bus renforce l'interaction entre les deux personnages."|&gt;"interactions, tension, résolution"</data>
+      <data key="d5">6</data>
+      <data key="d6">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </edge>
+    <edge source="&quot;VIEUX HOMME&quot;" target="&quot;DEUX ENFANTS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Le vieux homme cherche à équilibrer ses responsabilités familiales avec ses préoccupations envers son voisin."|&gt;"responsabilité, famille, voisinage"</data>
+      <data key="d5">7</data>
+      <data key="d6">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </edge>
+    <edge source="&quot;VIEUX HOMME&quot;" target="&quot;BRUIT&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Le bruit de la soirée perturbe la tranquillité du vieux homme, provoquant son mécontentement."|&gt;"tension, discord, vie quotidienne"</data>
+      <data key="d5">8</data>
+      <data key="d6">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </edge>
+    <edge source="&quot;VIEUX HOMME&quot;" target="&quot;SERVICES SECRETS DE L’ETAT&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"La peur que le vieux homme ait de son voisin l'amène à le considérer comme potentiellement dangereux."|&gt;"perception, peur, sécurité"</data>
+      <data key="d5">6</data>
+      <data key="d6">chunk-a73ee266cf23279153ca0cdb37634303</data>
+    </edge>
+  </graph>
+</graphml>

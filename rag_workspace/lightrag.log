@@ -1,0 +1,11 @@
+2024-11-19 01:12:48,652 - lightrag - INFO - Logger initialized for working directory: rag_workspace
+2024-11-19 01:12:48,653 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-19 01:12:48,653 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-19 01:12:48,653 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-19 01:12:52,637 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-19 01:12:52,868 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-19 01:12:52,868 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-19 01:12:54,172 - lightrag - INFO - [Entity Extraction]...
+2024-11-19 01:13:05,801 - lightrag - INFO - Inserting 13 vectors to entities
+2024-11-19 01:13:08,627 - lightrag - INFO - Inserting 9 vectors to relationships
+2024-11-19 01:13:09,932 - lightrag - INFO - Writing graph with 13 nodes, 9 edges

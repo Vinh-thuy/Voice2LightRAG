@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+.venv
+venv/
+ENV/
+
+# Dossiers spécifiques au projet
+saved_graphs/
+graph_viz/
+temp_network.html
+graph.html
